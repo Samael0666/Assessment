@@ -1,0 +1,1642 @@
+{
+  "IMG20220227135712_jpg.rf.71a7a045875b6adc57b30b5bc6f912af.jpg": {
+    "filename": "IMG20220227135712_jpg.rf.71a7a045875b6adc57b30b5bc6f912af.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.931637,
+        "bbox": [
+          0.16406200000000004,
+          0.23281249999999998,
+          0.676562,
+          0.5749995
+        ]
+      }
+    ]
+  },
+  "S__34734224_jpg.rf.2c07dff6e2aeac765ba0fbc2e95c4cfb.jpg": {
+    "filename": "S__34734224_jpg.rf.2c07dff6e2aeac765ba0fbc2e95c4cfb.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.940403,
+        "bbox": [
+          0.3421874999999999,
+          0.328125,
+          0.8875005,
+          0.7421869999999999
+        ]
+      }
+    ]
+  },
+  "wq076_jpg.rf.ab07f41b90f10ae43497c4419b67ab80.jpg": {
+    "filename": "wq076_jpg.rf.ab07f41b90f10ae43497c4419b67ab80.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.852363,
+        "bbox": [
+          0.2109375,
+          0.45156199999999996,
+          0.6468745,
+          0.7390619999999999
+        ]
+      }
+    ]
+  },
+  "IMG_3834_JPG.rf.58d4863267e14248def0dddc7b2fbf48.jpg": {
+    "filename": "IMG_3834_JPG.rf.58d4863267e14248def0dddc7b2fbf48.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.879705,
+        "bbox": [
+          0.19375049999999994,
+          0.13437550000000004,
+          0.9156255,
+          0.7765625
+        ]
+      }
+    ]
+  },
+  "wq118_jpg.rf.2586e5794dd4d02329345d01e2f29fea.jpg": {
+    "filename": "wq118_jpg.rf.2586e5794dd4d02329345d01e2f29fea.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.817887,
+        "bbox": [
+          0.2000005,
+          0.3734375,
+          0.6343755,
+          0.8125005
+        ]
+      }
+    ]
+  },
+  "IMG20220226133043_jpg.rf.b788463fa1ef8a69b60d9ffe4b1e3535.jpg": {
+    "filename": "IMG20220226133043_jpg.rf.b788463fa1ef8a69b60d9ffe4b1e3535.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.9062,
+        "bbox": [
+          0.15468749999999998,
+          0.3109375,
+          0.6578125,
+          0.6828125
+        ]
+      }
+    ]
+  },
+  "IMG20220224164705_jpg.rf.1f6ff0527f786e18ad04ffb61c3cb0f9.jpg": {
+    "filename": "IMG20220224164705_jpg.rf.1f6ff0527f786e18ad04ffb61c3cb0f9.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.949298,
+        "bbox": [
+          0.2546875,
+          0.3015625,
+          0.8625005000000001,
+          0.8593755000000001
+        ]
+      }
+    ]
+  },
+  "IMG_3831_JPG.rf.7e44bac09a4db563a7f9bc33bb830a79.jpg": {
+    "filename": "IMG_3831_JPG.rf.7e44bac09a4db563a7f9bc33bb830a79.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.944702,
+        "bbox": [
+          0.20937499999999998,
+          0.125,
+          0.821875,
+          0.6875
+        ]
+      }
+    ]
+  },
+  "IMG_3849_JPG.rf.7a8865f55fe0b4f978c1b4ff18d24315.jpg": {
+    "filename": "IMG_3849_JPG.rf.7a8865f55fe0b4f978c1b4ff18d24315.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.894538,
+        "bbox": [
+          0.0656255,
+          0.1625005,
+          0.8437505,
+          0.7781255
+        ]
+      }
+    ]
+  },
+  "S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg": {
+    "filename": "S__34734373_jpg.rf.4c8486ba8572c6888ce2be85fd330ffa.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.940663,
+        "bbox": [
+          0.05156250000000001,
+          0.11093800000000001,
+          0.5562495000000001,
+          0.567188
+        ]
+      }
+    ]
+  },
+  "IMG20220224160807-1-_jpg.rf.0e6b5ef655e3ff4afbbd67f049b6a63b.jpg": {
+    "filename": "IMG20220224160807-1-_jpg.rf.0e6b5ef655e3ff4afbbd67f049b6a63b.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.94692,
+        "bbox": [
+          0.14218750000000002,
+          0.184375,
+          0.7328125,
+          0.6968749999999999
+        ]
+      }
+    ]
+  },
+  "wq001_jpg.rf.a06a8e8376c98e00599f7ef180f65df1.jpg": {
+    "filename": "wq001_jpg.rf.a06a8e8376c98e00599f7ef180f65df1.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.885236,
+        "bbox": [
+          0.2562505,
+          0.16093749999999998,
+          0.6359375,
+          0.5953125
+        ]
+      }
+    ]
+  },
+  "IMG_3650_JPG.rf.d25a2b1576e687378bf47902a2295e1e.jpg": {
+    "filename": "IMG_3650_JPG.rf.d25a2b1576e687378bf47902a2295e1e.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.832678,
+        "bbox": [
+          0.11718800000000001,
+          0.08437500000000003,
+          1.0,
+          0.9515629999999999
+        ]
+      }
+    ]
+  },
+  "wq102_jpg.rf.08f33741326c3a5433f59fad17ad64e2.jpg": {
+    "filename": "wq102_jpg.rf.08f33741326c3a5433f59fad17ad64e2.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.825412,
+        "bbox": [
+          0.22187500000000002,
+          0.3093745,
+          0.584375,
+          0.5812495
+        ]
+      }
+    ]
+  },
+  "wq089_jpg.rf.0a16352143f42b8abda9368854549e6d.jpg": {
+    "filename": "wq089_jpg.rf.0a16352143f42b8abda9368854549e6d.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.891518,
+        "bbox": [
+          0.07656300000000002,
+          0.22656300000000001,
+          0.459375,
+          0.6078129999999999
+        ]
+      }
+    ]
+  },
+  "IMG_3911_JPG.rf.eee31e836a3912cc1614c1425f01b5fe.jpg": {
+    "filename": "IMG_3911_JPG.rf.eee31e836a3912cc1614c1425f01b5fe.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.950729,
+        "bbox": [
+          0.20468699999999995,
+          0.16875,
+          0.860937,
+          0.7875000000000001
+        ]
+      }
+    ]
+  },
+  "IMG20220224160928_jpg.rf.204ebb54112b265c2cecf3ff209ae236.jpg": {
+    "filename": "IMG20220224160928_jpg.rf.204ebb54112b265c2cecf3ff209ae236.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.924747,
+        "bbox": [
+          0.23281250000000003,
+          0.24843750000000003,
+          0.8531255,
+          0.8375005
+        ]
+      }
+    ]
+  },
+  "IMG20220224232012_jpg.rf.0304370a9cb7ab0365baccb6705fad26.jpg": {
+    "filename": "IMG20220224232012_jpg.rf.0304370a9cb7ab0365baccb6705fad26.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.936126,
+        "bbox": [
+          0.367188,
+          0.46562500000000007,
+          0.96875,
+          0.946875
+        ]
+      }
+    ]
+  },
+  "IMG_3877_JPG.rf.48c2425937e9d16f6efa32c175ddaeb2.jpg": {
+    "filename": "IMG_3877_JPG.rf.48c2425937e9d16f6efa32c175ddaeb2.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.94957,
+        "bbox": [
+          0.128125,
+          0.19375000000000003,
+          0.746875,
+          0.7484379999999999
+        ]
+      }
+    ]
+  },
+  "w033_jpg.rf.8a81aa75f435d5b83bd993180f369e5e.jpg": {
+    "filename": "w033_jpg.rf.8a81aa75f435d5b83bd993180f369e5e.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.853439,
+        "bbox": [
+          0.3734375,
+          0.507812,
+          0.6875005,
+          0.720312
+        ]
+      }
+    ]
+  },
+  "IMG_3917_JPG.rf.1d6af80ed8230839802f2c5504919d3c.jpg": {
+    "filename": "IMG_3917_JPG.rf.1d6af80ed8230839802f2c5504919d3c.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.957028,
+        "bbox": [
+          0.129687,
+          0.20468750000000002,
+          0.804687,
+          0.7531245
+        ]
+      }
+    ]
+  },
+  "wq116_jpg.rf.4acf428a2cc5a5b1ef4a4f454658283d.jpg": {
+    "filename": "wq116_jpg.rf.4acf428a2cc5a5b1ef4a4f454658283d.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.859613,
+        "bbox": [
+          0.12656250000000002,
+          0.3593745,
+          0.7468755,
+          0.7749995000000001
+        ]
+      }
+    ]
+  },
+  "wq023_jpg.rf.0e55e719f27587e63a5a7fb1dd3f66da.jpg": {
+    "filename": "wq023_jpg.rf.0e55e719f27587e63a5a7fb1dd3f66da.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.902877,
+        "bbox": [
+          0.0,
+          0.275,
+          0.35,
+          0.598438
+        ]
+      }
+    ]
+  },
+  "wq026_jpg.rf.f4c205cb40b2b48673ffe2aaf1e65ee1.jpg": {
+    "filename": "wq026_jpg.rf.f4c205cb40b2b48673ffe2aaf1e65ee1.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.791136,
+        "bbox": [
+          0.195313,
+          0.285938,
+          0.589063,
+          0.60625
+        ]
+      }
+    ]
+  },
+  "S__34734302_jpg.rf.ab5d102efeca34c374fe4c7927e41fd2.jpg": {
+    "filename": "S__34734302_jpg.rf.ab5d102efeca34c374fe4c7927e41fd2.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.951743,
+        "bbox": [
+          0.006250499999999992,
+          0.49218800000000007,
+          0.5109375,
+          0.942188
+        ]
+      }
+    ]
+  },
+  "wq074_jpg.rf.0de714293f9933bf03a8923e642c56b2.jpg": {
+    "filename": "wq074_jpg.rf.0de714293f9933bf03a8923e642c56b2.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.921021,
+        "bbox": [
+          0.19531199999999999,
+          0.414062,
+          0.470312,
+          0.59375
+        ]
+      }
+    ]
+  },
+  "wq045_jpg.rf.390112185142e594e30b966ef95da369.jpg": {
+    "filename": "wq045_jpg.rf.390112185142e594e30b966ef95da369.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.873082,
+        "bbox": [
+          0.5265625,
+          0.389063,
+          0.7734375,
+          0.632813
+        ]
+      }
+    ]
+  },
+  "IMG20220227154258_jpg.rf.4a665d111b468e32053b850ef0003f2a.jpg": {
+    "filename": "IMG20220227154258_jpg.rf.4a665d111b468e32053b850ef0003f2a.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.92242,
+        "bbox": [
+          0.260937,
+          0.34531200000000006,
+          0.7421869999999999,
+          0.675
+        ]
+      }
+    ]
+  },
+  "wq042_jpg.rf.99ac1bb17bdf687602bb23c352836fee.jpg": {
+    "filename": "wq042_jpg.rf.99ac1bb17bdf687602bb23c352836fee.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.892492,
+        "bbox": [
+          0.5078125,
+          0.382813,
+          0.8531255,
+          0.553125
+        ]
+      }
+    ]
+  },
+  "w113_jpg.rf.31af384fc84917e75a08b0669c98ba01.jpg": {
+    "filename": "w113_jpg.rf.31af384fc84917e75a08b0669c98ba01.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.739777,
+        "bbox": [
+          0.3156245,
+          0.46249999999999997,
+          0.5921875,
+          0.732812
+        ]
+      }
+    ]
+  },
+  "w078_jpg.rf.b3c718aa354e44d915a8547c4a43ae5c.jpg": {
+    "filename": "w078_jpg.rf.b3c718aa354e44d915a8547c4a43ae5c.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.817873,
+        "bbox": [
+          0.18906199999999998,
+          0.3874995,
+          0.525,
+          0.5953125
+        ]
+      }
+    ]
+  },
+  "IMG_3643_JPG.rf.d528e53dd5d14069b8c8b2f7239691d9.jpg": {
+    "filename": "IMG_3643_JPG.rf.d528e53dd5d14069b8c8b2f7239691d9.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.945727,
+        "bbox": [
+          0.1453125,
+          0.22031249999999997,
+          0.9124995,
+          0.9437495
+        ]
+      }
+    ]
+  },
+  "wq073_jpg.rf.479073ef2c106d4a823658c30a54d9d2.jpg": {
+    "filename": "wq073_jpg.rf.479073ef2c106d4a823658c30a54d9d2.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.886711,
+        "bbox": [
+          0.17812499999999998,
+          0.3390625,
+          0.459375,
+          0.6046875
+        ]
+      }
+    ]
+  },
+  "IMG20220227135533_jpg.rf.20135c1541afbfd93b870acf1e516b9a.jpg": {
+    "filename": "IMG20220227135533_jpg.rf.20135c1541afbfd93b870acf1e516b9a.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.943591,
+        "bbox": [
+          0.329687,
+          0.30156199999999994,
+          0.809375,
+          0.732812
+        ]
+      }
+    ]
+  },
+  "IMG20220224232021_jpg.rf.b724cfe3ab00f37c5a9288c2b3f377e6.jpg": {
+    "filename": "IMG20220224232021_jpg.rf.b724cfe3ab00f37c5a9288c2b3f377e6.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.948613,
+        "bbox": [
+          0.006250000000000033,
+          0.460938,
+          0.6640619999999999,
+          1.0
+        ]
+      }
+    ]
+  },
+  "wq122_jpg.rf.371e1e6250e0011b4bb57ac824044774.jpg": {
+    "filename": "wq122_jpg.rf.371e1e6250e0011b4bb57ac824044774.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.853113,
+        "bbox": [
+          0.2296875,
+          0.49531299999999995,
+          0.7250004999999999,
+          0.765625
+        ]
+      }
+    ]
+  },
+  "wq123_jpg.rf.a20bb5676110fc137b6278d66c9d0714.jpg": {
+    "filename": "wq123_jpg.rf.a20bb5676110fc137b6278d66c9d0714.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.839585,
+        "bbox": [
+          0.17968799999999996,
+          0.42812500000000003,
+          0.698438,
+          0.814063
+        ]
+      }
+    ]
+  },
+  "w106_jpg.rf.5ace80439e68ee954b80ee905b72081f.jpg": {
+    "filename": "w106_jpg.rf.5ace80439e68ee954b80ee905b72081f.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.787475,
+        "bbox": [
+          0.26875,
+          0.3109375,
+          0.807812,
+          0.6703125
+        ]
+      }
+    ]
+  },
+  "S__34734364_jpg.rf.4b1c97aede9c63188b6956c8241626e1.jpg": {
+    "filename": "S__34734364_jpg.rf.4b1c97aede9c63188b6956c8241626e1.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.934438,
+        "bbox": [
+          0.26406199999999996,
+          0.446875,
+          0.8015619999999999,
+          0.923437
+        ]
+      }
+    ]
+  },
+  "w100_jpg.rf.182c89b0ca748bb5d15503362fd0c355.jpg": {
+    "filename": "w100_jpg.rf.182c89b0ca748bb5d15503362fd0c355.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.891183,
+        "bbox": [
+          0.09218749999999998,
+          0.27499999999999997,
+          0.5593745,
+          0.5390619999999999
+        ]
+      }
+    ]
+  },
+  "IMG20220225102042_jpg.rf.e4739c623a82a61e6ebd8b792fb73c1e.jpg": {
+    "filename": "IMG20220225102042_jpg.rf.e4739c623a82a61e6ebd8b792fb73c1e.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.931313,
+        "bbox": [
+          0.2734375,
+          0.40468750000000003,
+          0.8078125,
+          0.8781245
+        ]
+      }
+    ]
+  },
+  "S__34734374_jpg.rf.c9bec62f6eed65187b6c3d073ee45f2e.jpg": {
+    "filename": "S__34734374_jpg.rf.c9bec62f6eed65187b6c3d073ee45f2e.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.890557,
+        "bbox": [
+          0.09999999999999998,
+          0.548438,
+          0.50625,
+          0.9484380000000001
+        ]
+      }
+    ]
+  },
+  "IMG20220227113608_jpg.rf.3fe36b5dc7c8e9ae301650e26ca2effc.jpg": {
+    "filename": "IMG20220227113608_jpg.rf.3fe36b5dc7c8e9ae301650e26ca2effc.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.932385,
+        "bbox": [
+          0.26093799999999995,
+          0.4156245,
+          0.90625,
+          0.8437494999999999
+        ]
+      }
+    ]
+  },
+  "IMG20220226143650_jpg.rf.0ba47b23e9e7ad87525a715dfd6c40e5.jpg": {
+    "filename": "IMG20220226143650_jpg.rf.0ba47b23e9e7ad87525a715dfd6c40e5.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.29721,
+        "bbox": [
+          0.6546875,
+          0.8265625,
+          1.0000005,
+          0.9984375
+        ]
+      },
+      {
+        "label": "glove",
+        "confidence": 0.582431,
+        "bbox": [
+          2.0000000000575113e-07,
+          0.17187550000000001,
+          0.1703122,
+          0.4015625
+        ]
+      },
+      {
+        "label": "no_glove",
+        "confidence": 0.925919,
+        "bbox": [
+          0.24375,
+          0.28125,
+          0.69375,
+          0.648438
+        ]
+      }
+    ]
+  },
+  "w047_jpg.rf.7e67e79ab2c2b842f046eddff09f566a.jpg": {
+    "filename": "w047_jpg.rf.7e67e79ab2c2b842f046eddff09f566a.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.879945,
+        "bbox": [
+          0.5859375,
+          0.33593700000000004,
+          0.9593745,
+          0.578125
+        ]
+      }
+    ]
+  },
+  "20220225_103259_jpg.rf.365765f491604a7376af4e8cf00f6d8b.jpg": {
+    "filename": "20220225_103259_jpg.rf.365765f491604a7376af4e8cf00f6d8b.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.863811,
+        "bbox": [
+          0.10937550000000001,
+          0.21562499999999998,
+          0.9265625,
+          0.692187
+        ]
+      }
+    ]
+  },
+  "wq062_jpg.rf.d28bde236b1360e0d45e29bd29ecd399.jpg": {
+    "filename": "wq062_jpg.rf.d28bde236b1360e0d45e29bd29ecd399.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.926434,
+        "bbox": [
+          0.385938,
+          0.3265625,
+          0.729688,
+          0.5234375
+        ]
+      }
+    ]
+  },
+  "wq086_jpg.rf.4df0a420bda156deb5a5d9de3f2e2e21.jpg": {
+    "filename": "wq086_jpg.rf.4df0a420bda156deb5a5d9de3f2e2e21.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.855659,
+        "bbox": [
+          0.0015620000000000078,
+          0.32812500000000006,
+          0.620312,
+          0.7718750000000001
+        ]
+      }
+    ]
+  },
+  "wq020_jpg.rf.31ea718331469c5e039c3ab2dd8fc94a.jpg": {
+    "filename": "wq020_jpg.rf.31ea718331469c5e039c3ab2dd8fc94a.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.895886,
+        "bbox": [
+          0.21718700000000002,
+          0.426562,
+          0.640625,
+          0.676562
+        ]
+      }
+    ]
+  },
+  "wq113_jpg.rf.3035f126a81f31acd2496713cd1257fc.jpg": {
+    "filename": "wq113_jpg.rf.3035f126a81f31acd2496713cd1257fc.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.805272,
+        "bbox": [
+          0.32187499999999997,
+          0.46562499999999996,
+          0.5859369999999999,
+          0.734375
+        ]
+      }
+    ]
+  },
+  "w064_jpg.rf.72bf5ce2939c014b247162eb5927fb88.jpg": {
+    "filename": "w064_jpg.rf.72bf5ce2939c014b247162eb5927fb88.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.9141,
+        "bbox": [
+          0.48749999999999993,
+          0.42343699999999995,
+          0.792188,
+          0.610937
+        ]
+      }
+    ]
+  },
+  "IMG20220227154259_jpg.rf.d4dd9e3efc999e662816cdd67b329939.jpg": {
+    "filename": "IMG20220227154259_jpg.rf.d4dd9e3efc999e662816cdd67b329939.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.936367,
+        "bbox": [
+          0.21718749999999998,
+          0.33281249999999996,
+          0.6812505,
+          0.6921875
+        ]
+      }
+    ]
+  },
+  "IMG20220224232248_jpg.rf.dbe8ad7434f3887c08a6f4411ac4c5b5.jpg": {
+    "filename": "IMG20220224232248_jpg.rf.dbe8ad7434f3887c08a6f4411ac4c5b5.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.811277,
+        "bbox": [
+          0.22812450000000006,
+          0.407812,
+          0.9749995,
+          1.0
+        ]
+      }
+    ]
+  },
+  "IMG_3913_JPG.rf.6081911d6241474cf7a9988022ddb8f9.jpg": {
+    "filename": "IMG_3913_JPG.rf.6081911d6241474cf7a9988022ddb8f9.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.915709,
+        "bbox": [
+          0.20625,
+          0.26249950000000005,
+          0.798438,
+          0.7578125
+        ]
+      }
+    ]
+  },
+  "IMG20220226195009_jpg.rf.4329f54093e4c5f5512504dd2081cab0.jpg": {
+    "filename": "IMG20220226195009_jpg.rf.4329f54093e4c5f5512504dd2081cab0.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.939173,
+        "bbox": [
+          0.22656199999999993,
+          0.23749950000000003,
+          0.776562,
+          0.7078125
+        ]
+      }
+    ]
+  },
+  "wq080_jpg.rf.f986a1d77eb02eb6b6a2dd62af9f1661.jpg": {
+    "filename": "wq080_jpg.rf.f986a1d77eb02eb6b6a2dd62af9f1661.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.877213,
+        "bbox": [
+          0.23437550000000001,
+          0.40625,
+          0.45156250000000003,
+          0.575
+        ]
+      }
+    ]
+  },
+  "IMG20220226225553_jpg.rf.fd54d46c9d78f0856553839a5636b7d8.jpg": {
+    "filename": "IMG20220226225553_jpg.rf.fd54d46c9d78f0856553839a5636b7d8.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.850841,
+        "bbox": [
+          0.3062500000000001,
+          0.4312499999999999,
+          0.901562,
+          0.860938
+        ]
+      }
+    ]
+  },
+  "wq108_jpg.rf.332516b0d77cb3b912ec868bf61fb36b.jpg": {
+    "filename": "wq108_jpg.rf.332516b0d77cb3b912ec868bf61fb36b.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.865266,
+        "bbox": [
+          0.2968755,
+          0.3187495,
+          0.5375005,
+          0.6593745
+        ]
+      }
+    ]
+  },
+  "S__34734287_jpg.rf.a0667e4804396596c649252083c2712d.jpg": {
+    "filename": "S__34734287_jpg.rf.a0667e4804396596c649252083c2712d.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.946223,
+        "bbox": [
+          0.3234375,
+          0.4359375,
+          0.7968744999999999,
+          0.7812505
+        ]
+      }
+    ]
+  },
+  "w072_jpg.rf.309be5ce9d0af94ef9cb6257c058722d.jpg": {
+    "filename": "w072_jpg.rf.309be5ce9d0af94ef9cb6257c058722d.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.826157,
+        "bbox": [
+          0.22031300000000004,
+          0.29531250000000003,
+          0.8078130000000001,
+          0.7234375
+        ]
+      }
+    ]
+  },
+  "w043_jpg.rf.b60f037ebb3e31d4a3d5da633aafee20.jpg": {
+    "filename": "w043_jpg.rf.b60f037ebb3e31d4a3d5da633aafee20.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.872043,
+        "bbox": [
+          0.5562499999999999,
+          0.39531199999999994,
+          0.798438,
+          0.6390619999999999
+        ]
+      }
+    ]
+  },
+  "IMG20220224231810_jpg.rf.0c349d0d241e5ec1817736f67cbc3cdd.jpg": {
+    "filename": "IMG20220224231810_jpg.rf.0c349d0d241e5ec1817736f67cbc3cdd.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.91496,
+        "bbox": [
+          0.006249500000000019,
+          0.44374949999999996,
+          0.5953125,
+          0.9968744999999999
+        ]
+      }
+    ]
+  },
+  "IMG20220227001610_jpg.rf.a4d54304bc76302dc4f49aa0acfda5c9.jpg": {
+    "filename": "IMG20220227001610_jpg.rf.a4d54304bc76302dc4f49aa0acfda5c9.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.939922,
+        "bbox": [
+          0.24843700000000007,
+          0.28125,
+          0.7718750000000001,
+          0.6875
+        ]
+      }
+    ]
+  },
+  "wq077_jpg.rf.adbbbeab8b3a8f91395bcbc899d6598c.jpg": {
+    "filename": "wq077_jpg.rf.adbbbeab8b3a8f91395bcbc899d6598c.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.632169,
+        "bbox": [
+          0.09531250000000002,
+          0.41093700000000005,
+          0.6859375,
+          0.765625
+        ]
+      }
+    ]
+  },
+  "wq050_jpg.rf.73a346485945078180571bcaabb12f14.jpg": {
+    "filename": "wq050_jpg.rf.73a346485945078180571bcaabb12f14.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.925307,
+        "bbox": [
+          0.5093755,
+          0.3875,
+          0.8250005,
+          0.63125
+        ]
+      }
+    ]
+  },
+  "IMG_3900_JPG.rf.bd3237d0a7afd71fab6a4f61f96a7d87.jpg": {
+    "filename": "IMG_3900_JPG.rf.bd3237d0a7afd71fab6a4f61f96a7d87.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.943919,
+        "bbox": [
+          0.24218700000000004,
+          0.3124995,
+          0.754687,
+          0.8578125000000001
+        ]
+      }
+    ]
+  },
+  "w058_jpg.rf.5a01d199cca8faf1c4a67e7cd7b6ebce.jpg": {
+    "filename": "w058_jpg.rf.5a01d199cca8faf1c4a67e7cd7b6ebce.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.847892,
+        "bbox": [
+          0.4875,
+          0.3531245,
+          0.8421879999999999,
+          0.6609375
+        ]
+      }
+    ]
+  },
+  "wq121_jpg.rf.d97c19f6eaf65da0cb455242209c5a5d.jpg": {
+    "filename": "wq121_jpg.rf.d97c19f6eaf65da0cb455242209c5a5d.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.875861,
+        "bbox": [
+          0.35625,
+          0.515625,
+          0.6578120000000001,
+          0.720313
+        ]
+      }
+    ]
+  },
+  "IMG20220226133129_jpg.rf.56ff65ce8fa20e06542320e6b4587bd5.jpg": {
+    "filename": "IMG20220226133129_jpg.rf.56ff65ce8fa20e06542320e6b4587bd5.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.942889,
+        "bbox": [
+          0.05624999999999997,
+          0.11093700000000001,
+          0.8,
+          0.7421869999999999
+        ]
+      }
+    ]
+  },
+  "IMG_3646_JPG.rf.a414d02b90bfcef79118ee16891f0a4a.jpg": {
+    "filename": "IMG_3646_JPG.rf.a414d02b90bfcef79118ee16891f0a4a.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.891975,
+        "bbox": [
+          0.006249500000000019,
+          0.035937,
+          0.8656245,
+          0.903125
+        ]
+      }
+    ]
+  },
+  "wq032_jpg.rf.9d78524d7fad653cdb4c055f6324e3dd.jpg": {
+    "filename": "wq032_jpg.rf.9d78524d7fad653cdb4c055f6324e3dd.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.880435,
+        "bbox": [
+          0.3796875,
+          0.429687,
+          0.6562505000000001,
+          0.721875
+        ]
+      }
+    ]
+  },
+  "w028_jpg.rf.b37995b0c5607518fe970b5ed4503317.jpg": {
+    "filename": "w028_jpg.rf.b37995b0c5607518fe970b5ed4503317.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.872567,
+        "bbox": [
+          0.19687449999999998,
+          0.253125,
+          0.6312495,
+          0.551563
+        ]
+      }
+    ]
+  },
+  "wq117_jpg.rf.c6880e8e43d4c630cea27c54f5358faf.jpg": {
+    "filename": "wq117_jpg.rf.c6880e8e43d4c630cea27c54f5358faf.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.855815,
+        "bbox": [
+          0.265625,
+          0.39062500000000006,
+          0.510937,
+          0.7406250000000001
+        ]
+      }
+    ]
+  },
+  "IMG20220226194054_jpg.rf.bb2e6dd277ff42eb58fb31ccf95c6e6f.jpg": {
+    "filename": "IMG20220226194054_jpg.rf.bb2e6dd277ff42eb58fb31ccf95c6e6f.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.939352,
+        "bbox": [
+          0.18593749999999998,
+          0.2656255,
+          0.8453125,
+          0.7562504999999999
+        ]
+      }
+    ]
+  },
+  "wq023_jpg.rf.3aa7fc6d79f5324ed66250aa8e7ef6ba.jpg": {
+    "filename": "wq023_jpg.rf.3aa7fc6d79f5324ed66250aa8e7ef6ba.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.900529,
+        "bbox": [
+          0.0,
+          0.2718745,
+          0.351562,
+          0.5999995
+        ]
+      }
+    ]
+  },
+  "wq038_jpg.rf.799bfd5186c25ded29ba5e70d19a9487.jpg": {
+    "filename": "wq038_jpg.rf.799bfd5186c25ded29ba5e70d19a9487.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.909587,
+        "bbox": [
+          0.44531300000000007,
+          0.342188,
+          0.832813,
+          0.567188
+        ]
+      }
+    ]
+  },
+  "wq049_jpg.rf.165d0695dc6bb7851d980f5807191a4d.jpg": {
+    "filename": "wq049_jpg.rf.165d0695dc6bb7851d980f5807191a4d.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.919256,
+        "bbox": [
+          0.43906249999999997,
+          0.342188,
+          0.8046875,
+          0.5875
+        ]
+      }
+    ]
+  },
+  "S__34734328_jpg.rf.a5897f7bb4f00f67593c92bf4b6a3528.jpg": {
+    "filename": "S__34734328_jpg.rf.a5897f7bb4f00f67593c92bf4b6a3528.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.947466,
+        "bbox": [
+          0.09531300000000004,
+          0.31562549999999995,
+          0.659375,
+          0.7578125
+        ]
+      }
+    ]
+  },
+  "IMG20220224172210_jpg.rf.893fde2d2ef4e33ab0acbab260c8d905.jpg": {
+    "filename": "IMG20220224172210_jpg.rf.893fde2d2ef4e33ab0acbab260c8d905.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.922663,
+        "bbox": [
+          0.21093749999999994,
+          0.220312,
+          0.8140624999999999,
+          0.675
+        ]
+      }
+    ]
+  },
+  "IMG_3870_JPG.rf.8bddf212367091426098a44cc9a55730.jpg": {
+    "filename": "IMG_3870_JPG.rf.8bddf212367091426098a44cc9a55730.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.926691,
+        "bbox": [
+          0.175,
+          0.17187550000000001,
+          0.776562,
+          0.8125005000000001
+        ]
+      }
+    ]
+  },
+  "w014_jpg.rf.c0027ac2359b9511cf9323ac2cfc3ce6.jpg": {
+    "filename": "w014_jpg.rf.c0027ac2359b9511cf9323ac2cfc3ce6.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.816221,
+        "bbox": [
+          0.2218755,
+          0.21875050000000001,
+          0.7062505,
+          0.6859375000000001
+        ]
+      }
+    ]
+  },
+  "IMG20220227102741_jpg.rf.61f6a8fdd0e8fc38c88fc45ee8b9391f.jpg": {
+    "filename": "IMG20220227102741_jpg.rf.61f6a8fdd0e8fc38c88fc45ee8b9391f.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.949436,
+        "bbox": [
+          0.254687,
+          0.2718745,
+          0.7468750000000001,
+          0.6796875
+        ]
+      }
+    ]
+  },
+  "w006_jpg.rf.d0e78f930867bebc4f2583c977ae54c0.jpg": {
+    "filename": "w006_jpg.rf.d0e78f930867bebc4f2583c977ae54c0.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.888819,
+        "bbox": [
+          0.114062,
+          0.2843755,
+          0.46875,
+          0.5500005
+        ]
+      }
+    ]
+  },
+  "S__34734264_jpg.rf.ad554d2de6dbd3f8ee142f04a4a423d4.jpg": {
+    "filename": "S__34734264_jpg.rf.ad554d2de6dbd3f8ee142f04a4a423d4.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.958215,
+        "bbox": [
+          0.31875000000000003,
+          0.29374949999999994,
+          0.923438,
+          0.8390625
+        ]
+      }
+    ]
+  },
+  "w094_jpg.rf.66be916169e0b250d548e9f0b799c6de.jpg": {
+    "filename": "w094_jpg.rf.66be916169e0b250d548e9f0b799c6de.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.821998,
+        "bbox": [
+          0.1781255,
+          0.328125,
+          0.5000005000000001,
+          0.578125
+        ]
+      }
+    ]
+  },
+  "w001_jpg.rf.46ea06bbc43571689e287085121b4151.jpg": {
+    "filename": "w001_jpg.rf.46ea06bbc43571689e287085121b4151.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.846651,
+        "bbox": [
+          0.24531200000000003,
+          0.1593755,
+          0.6375,
+          0.6015625
+        ]
+      }
+    ]
+  },
+  "IMG20220224232413_jpg.rf.80c61424996d5762ac68996541ad7a37.jpg": {
+    "filename": "IMG20220224232413_jpg.rf.80c61424996d5762ac68996541ad7a37.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.858516,
+        "bbox": [
+          -5.000000000143778e-07,
+          0.38593799999999995,
+          0.9468745000000001,
+          1.0
+        ]
+      }
+    ]
+  },
+  "wq038_jpg.rf.ca6013b14cca0b89463b5ba2d48ecd71.jpg": {
+    "filename": "wq038_jpg.rf.ca6013b14cca0b89463b5ba2d48ecd71.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.902777,
+        "bbox": [
+          0.44687499999999997,
+          0.340625,
+          0.832813,
+          0.564063
+        ]
+      }
+    ]
+  },
+  "IMG20220224231707_jpg.rf.f60de50d501f2d9d61e34961d88da3a3.jpg": {
+    "filename": "IMG20220224231707_jpg.rf.f60de50d501f2d9d61e34961d88da3a3.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.822488,
+        "bbox": [
+          0.009375000000000022,
+          0.415625,
+          0.782813,
+          0.9968750000000001
+        ]
+      }
+    ]
+  },
+  "IMG_3729_JPG.rf.6ad20fa780a53ebb9a566b914bce5ba6.jpg": {
+    "filename": "IMG_3729_JPG.rf.6ad20fa780a53ebb9a566b914bce5ba6.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.939042,
+        "bbox": [
+          0.09687500000000004,
+          0.38125050000000005,
+          0.629687,
+          0.9281255
+        ]
+      }
+    ]
+  },
+  "w102_jpg.rf.8e893e1de8e6c0f0610bb2b3004c9ca8.jpg": {
+    "filename": "w102_jpg.rf.8e893e1de8e6c0f0610bb2b3004c9ca8.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.795004,
+        "bbox": [
+          0.18749949999999999,
+          0.3046875,
+          0.6031245000000001,
+          0.5843745
+        ]
+      }
+    ]
+  },
+  "IMG20220224231747_jpg.rf.d535d78c22b438ce8fb8bece76f496c5.jpg": {
+    "filename": "IMG20220224231747_jpg.rf.d535d78c22b438ce8fb8bece76f496c5.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.953858,
+        "bbox": [
+          0.009375000000000022,
+          0.43124999999999997,
+          0.751563,
+          1.0
+        ]
+      }
+    ]
+  },
+  "wq015_jpg.rf.e814b73f52eeda2d6c2faa852a37e0a5.jpg": {
+    "filename": "wq015_jpg.rf.e814b73f52eeda2d6c2faa852a37e0a5.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.889616,
+        "bbox": [
+          0.209375,
+          0.375,
+          0.634375,
+          0.670312
+        ]
+      }
+    ]
+  },
+  "wq022_jpg.rf.2b352b3f52c0c02095a12dbba21d8cf1.jpg": {
+    "filename": "wq022_jpg.rf.2b352b3f52c0c02095a12dbba21d8cf1.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.735823,
+        "bbox": [
+          0.06093700000000002,
+          0.259375,
+          0.740625,
+          0.634375
+        ]
+      }
+    ]
+  },
+  "IMG20220224170028_jpg.rf.4957f65b4089c279ace77bbb3d34c691.jpg": {
+    "filename": "IMG20220224170028_jpg.rf.4957f65b4089c279ace77bbb3d34c691.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.944115,
+        "bbox": [
+          0.17187550000000001,
+          0.2593755,
+          0.7515624999999999,
+          0.7625005
+        ]
+      }
+    ]
+  },
+  "IMG20220224160840_jpg.rf.354959c9070c5b86c661a533feae83a6.jpg": {
+    "filename": "IMG20220224160840_jpg.rf.354959c9070c5b86c661a533feae83a6.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.865056,
+        "bbox": [
+          0.11562549999999994,
+          0.10000049999999999,
+          0.9312505,
+          0.9218755000000001
+        ]
+      }
+    ]
+  },
+  "w112_jpg.rf.6f9d460b5a9a749fbdfc915c29a589ae.jpg": {
+    "filename": "w112_jpg.rf.6f9d460b5a9a749fbdfc915c29a589ae.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.819412,
+        "bbox": [
+          0.10312549999999998,
+          0.335938,
+          0.5078125,
+          0.7171879999999999
+        ]
+      }
+    ]
+  },
+  "IMG_3897_JPG.rf.35373799691e4c81893f2ad11792308a.jpg": {
+    "filename": "IMG_3897_JPG.rf.35373799691e4c81893f2ad11792308a.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.819838,
+        "bbox": [
+          0.0234375,
+          0.13906249999999998,
+          0.8718745,
+          0.8421875
+        ]
+      }
+    ]
+  },
+  "IMG20220226234924_jpg.rf.0a86f1273ada688a4d76cde68c8f0daf.jpg": {
+    "filename": "IMG20220226234924_jpg.rf.0a86f1273ada688a4d76cde68c8f0daf.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.939143,
+        "bbox": [
+          0.18750050000000001,
+          0.4015625,
+          0.6781254999999999,
+          0.9062494999999999
+        ]
+      }
+    ]
+  },
+  "wq085_jpg.rf.bb93949dd2667804dce050fa969b2fda.jpg": {
+    "filename": "wq085_jpg.rf.bb93949dd2667804dce050fa969b2fda.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.889241,
+        "bbox": [
+          0.3171875,
+          0.49062500000000003,
+          0.6593745,
+          0.732813
+        ]
+      }
+    ]
+  },
+  "wq097_jpg.rf.2c7b0b2f31f8f31838da20b99cb69528.jpg": {
+    "filename": "wq097_jpg.rf.2c7b0b2f31f8f31838da20b99cb69528.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.899259,
+        "bbox": [
+          0.3906255,
+          0.3312505,
+          0.6625004999999999,
+          0.5296875
+        ]
+      }
+    ]
+  },
+  "w108_jpg.rf.012aa0a54e97d022275a4c9000e7aaba.jpg": {
+    "filename": "w108_jpg.rf.012aa0a54e97d022275a4c9000e7aaba.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.836031,
+        "bbox": [
+          0.260937,
+          0.31406249999999997,
+          0.553125,
+          0.6562494999999999
+        ]
+      }
+    ]
+  },
+  "w068_jpg.rf.4e7be461e6a3932fbf1d2c72a6703022.jpg": {
+    "filename": "w068_jpg.rf.4e7be461e6a3932fbf1d2c72a6703022.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.905109,
+        "bbox": [
+          0.32500000000000007,
+          0.396875,
+          0.68125,
+          0.589063
+        ]
+      }
+    ]
+  },
+  "IMG20220224162653_jpg.rf.d74c1b8b73da34dd9456cf46bc29a6c6.jpg": {
+    "filename": "IMG20220224162653_jpg.rf.d74c1b8b73da34dd9456cf46bc29a6c6.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.861396,
+        "bbox": [
+          0.31562450000000003,
+          0.3812505,
+          0.9984375000000001,
+          0.9218755000000001
+        ]
+      }
+    ]
+  },
+  "wq025_jpg.rf.85d3ed88cc42fd8b4ce04c16670d199e.jpg": {
+    "filename": "wq025_jpg.rf.85d3ed88cc42fd8b4ce04c16670d199e.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.873998,
+        "bbox": [
+          0.3187495,
+          0.221875,
+          0.9406245,
+          0.6343749999999999
+        ]
+      }
+    ]
+  },
+  "S__34734230_jpg.rf.072aba429d0428716615b39da102e255.jpg": {
+    "filename": "S__34734230_jpg.rf.072aba429d0428716615b39da102e255.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.947045,
+        "bbox": [
+          0.21562450000000002,
+          0.4718755,
+          0.6249995,
+          0.8312505
+        ]
+      }
+    ]
+  },
+  "wq033_jpg.rf.9396159d1d8d2c3d9ee341020753feaa.jpg": {
+    "filename": "wq033_jpg.rf.9396159d1d8d2c3d9ee341020753feaa.jpg",
+    "detections": [
+      {
+        "label": "glove",
+        "confidence": 0.86214,
+        "bbox": [
+          0.37500000000000006,
+          0.50625,
+          0.6937500000000001,
+          0.7374999999999999
+        ]
+      }
+    ]
+  },
+  "S__34734228_jpg.rf.5251709c5d6dc6c3dc1834c2dd7e9d83.jpg": {
+    "filename": "S__34734228_jpg.rf.5251709c5d6dc6c3dc1834c2dd7e9d83.jpg",
+    "detections": [
+      {
+        "label": "no_glove",
+        "confidence": 0.943426,
+        "bbox": [
+          0.439063,
+          0.3749995,
+          0.989063,
+          0.8390625
+        ]
+      }
+    ]
+  }
+}
